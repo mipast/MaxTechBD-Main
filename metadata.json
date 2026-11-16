@@ -1,0 +1,6 @@
+{
+  "name": "Max Tech BD",
+  "description": "A premium, modern e-commerce platform with a clean UI, shopping cart, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
